@@ -1,0 +1,9 @@
+
+Welcome to Reverbyte – Decode Forgotten Knowledge from Silent Artifacts.
+Imagine holding a forgotten artifact in your hand… what story does it tell?
+Reverbyte is your AI-powered companion that breathes life into silent objects.
+Using 3D scanning, computer vision, and GPT-4 storytelling,
+we uncover hidden histories, cultural tales, and ancient usage in immersive ways.
+Scan. Decode. Experience the forgotten.
+Developed by Siddhi Sai Kokkula and Team Nothing to Lose.
+Built for the world's largest hackathon – BOLT.

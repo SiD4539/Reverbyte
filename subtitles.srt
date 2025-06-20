@@ -1,0 +1,32 @@
+
+1
+00:00:00,000 --> 00:00:04,000
+Welcome to Reverbyte – Decode Forgotten Knowledge from Silent Artifacts.
+
+2
+00:00:04,001 --> 00:00:08,000
+Imagine holding a forgotten artifact in your hand… what story does it tell?
+
+3
+00:00:08,001 --> 00:00:13,000
+Reverbyte is your AI-powered companion that breathes life into silent objects.
+
+4
+00:00:13,001 --> 00:00:17,000
+Using 3D scanning, computer vision, and GPT-4 storytelling,
+
+5
+00:00:17,001 --> 00:00:21,000
+we uncover hidden histories, cultural tales, and ancient usage in immersive ways.
+
+6
+00:00:21,001 --> 00:00:25,000
+Scan. Decode. Experience the forgotten.
+
+7
+00:00:25,001 --> 00:00:29,000
+Developed by Siddhi Sai Kokkula and Team Nothing to Lose.
+
+8
+00:00:29,001 --> 00:00:33,000
+Built for the world's largest hackathon – BOLT.
