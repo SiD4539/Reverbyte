@@ -1,0 +1,2 @@
+Reverbyte is an AI-driven storytelling engine that revives the silent past of real-world artifacts.
+Scan an object—our AI reconstructs its historical, cultural, and functional context using GPT-powered narration and AR visuals.

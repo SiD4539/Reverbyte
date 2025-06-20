@@ -1,0 +1,2 @@
+Reverbyte is an AI-powered platform that decodes forgotten stories from real-world artifacts.
+Using 3D scanning, computer vision, and GPT-generated storytelling, it turns silent objects into immersive, interactive narratives.
